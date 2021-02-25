@@ -3,6 +3,9 @@
 <!--
 **Abdvkh/abdvkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/abubakr-dev) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/abduvakhidov)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
